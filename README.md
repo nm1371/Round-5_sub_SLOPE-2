@@ -2,6 +2,9 @@
 find V
 s.t. SV=0,
      L<V<U.
+Execution process: 'please copy the code in matlab.'
+How to use:
 Please set your file name, your sheet and your data range for matrix S on lines 6-8.
 Please set  your data range for lower bound matrix L on the line 17.
 Please set  your data range for lower bound matrix U on the line 24.
+writers: Nasrin Mirhoseini and Maria Tufan.
